@@ -10,7 +10,7 @@ import streamlit as st
 # ============================================================================
 
 st.set_page_config(
-    page_title="LLM Bootcamp Project",
+    page_title="Project Astra",
     page_icon="🤖",
     layout="wide"
 )
@@ -19,7 +19,7 @@ st.set_page_config(
 # MAIN CONTENT
 # ============================================================================
 
-st.title("🤖 LLM Bootcamp Project")
+st.title("🤖 Project Astra")
 st.write("Explore AI chatbot with multiple capabilities")
 
 st.subheader("Available AI Assistants:")
