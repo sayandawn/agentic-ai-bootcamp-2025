@@ -34,4 +34,3 @@ arxiv==2.2.0
 # Assignment 3: Multi-format document support
 python-docx>=0.8.11
 
-pip install -U ddgs
